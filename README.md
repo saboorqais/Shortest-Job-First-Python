@@ -1,7 +1,7 @@
 # Shortest-Job-First-Python
 Shortest Job First SJF based On FIFO 
 
-#Input
+# Input
 Array
 For example 
 list=[1,2,3,4,56,7]
